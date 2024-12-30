@@ -16,4 +16,4 @@ Welcome to my GitHub profile!
 - 🌍 Accessibility- WCAG & Accessibility (a11y), Internationalization
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/alisha-gogna-924464128)
+- Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/alisha-gogna-924464128)
