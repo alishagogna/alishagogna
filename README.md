@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Alisha 👋
 
-<!--
-**alishagogna/alishagogna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🔭 I’m currently working on several React, Java/Node.js projects.
+- 🌱 I'm always learning and upgrading with new technologies.
+- 🤝 I'm open to collaborating on projects, my expertise is in fintech, eCommerce, edTech, CRM domains.
+- 📫 How to reach me -> Visit my LinkedIn Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Key Skills
+- 💻 Frontend: React, JavaScript, HTML, CSS
+- ⚙️ Backend: Node.js, Java
+- 💾 SQL, PostGress, MySQL
+- 📱  Responsive Web Application
+- 🌍 Accessibility- WCAG & Accessibility (a11y), Internationalization
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/alisha-gogna-924464128)
